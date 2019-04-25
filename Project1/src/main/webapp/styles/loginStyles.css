@@ -1,0 +1,90 @@
+/* syles for login page */
+
+ #col2, #form {
+    border: solid 1px black; 
+}
+
+#row1 {
+
+    padding-top:20%; 
+    padding-bottom:60%; 
+    height: 50%vh; 
+}
+
+#row3 {
+    padding-bottom: 20em; 
+}
+
+#form {
+    padding-top: 5%; 
+    padding-bottom: 10%; 
+    background-color: white; 
+}
+
+#usernameField, #passWordField, #loginSubmit, #unLegend, #pwLegend {
+    width: 100%; 
+}
+#passWordField, #usernameField {
+    background-color:  #e7e8e9; 
+}
+
+#loginSubmit {
+    line-height: 250%; 
+}
+
+legend {
+    margin: auto; 
+    text-justify: center;
+    padding-left: 0; 
+    font-size: 14px; 
+    font-weight: bold;  
+}
+
+#pageContainer {
+    background-color: #e1f2fa; 
+    height: 100%vh; 
+    padding-bottom: 0; 
+    margin-bottom:0; 
+    border: solid black 1px; 
+}
+
+body {
+    padding: 0; 
+    margin: 0; 
+}
+
+/*adding styles from profile page that are relevant*/
+
+#employeeHeader {
+    height: 50px; 
+    background-color: #e1f2fa; 
+    position: fixed; 
+    top:0; 
+}
+#employeeHeader {
+    border: solid 1px black; 
+    z-index: 5;
+}
+
+#logOutForm, #returnToProilesForm {
+    padding-top: .6em; 
+}
+
+#requestForm {
+    padding-top: 5%; 
+    padding-bottom: 10%; 
+    background-color: white;
+    border: solid black 1px;  
+}
+
+#cost, #description, #rxImage, #requestSubmit, #costLegend, #dnLegend, #rxImageLegend, #empIdLegend, #empId, #manIdLegend, #manId, #firstName, #lastName, #emailAddress{
+    width: 100%; 
+}
+#cost, #description, #rxImage, #empId, #manId {
+    background-color:  #e7e8e9; 
+}
+#requestSubmit {
+    line-height: 250%; 
+}
+
+

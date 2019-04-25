@@ -1,0 +1,74 @@
+/* styles for welcome page */ 
+
+#employeeHeader {
+    height: 50px; 
+    background-color: #e1f2fa; 
+    position: fixed; 
+    top:0; 
+}
+#div1 {
+    height: 100px; 
+}
+
+#logOutForm {
+    padding-top: .6em; 
+}
+
+#row1 {
+    padding-left: 3em; 
+}
+#row2 {
+    padding-left: 3.25em; 
+}
+#row3 {
+    padding-bottom: 0; 
+    border: solid black 1px; 
+    z-index: -1;
+}
+
+#col1 {
+    background-color: #a5fcda; 
+    padding: 2%; 
+    padding-left: 5%;
+    padding-top: 3%;  
+}
+#col2 {
+    background-color: #a5ebfc; 
+    padding: 2%; 
+    padding-left: 5%;
+    padding-top: 3%;  
+}
+
+#employeeHeader {
+    border: solid 1px black; 
+}
+
+#contentContainer {
+}
+
+#row2 {
+    padding-top: 2%;
+}
+
+#userRecordHeading {
+    padding-top: 1em; 
+}
+
+
+
+/* for the request form */
+/*
+#ReqFormcol1 {
+    background-color: #a5fcda; 
+    padding: 2%; 
+    padding-left: 10%;
+    padding-top: 3%;  
+    margin-left: 25%; 
+    margin-top: 3%; 
+    margin-bottom: 3%; 
+}
+
+#reqestForm {
+    margin-left: 5%; 
+}
+*/
